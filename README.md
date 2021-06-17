@@ -11,5 +11,8 @@ My main projects are:
 
 You can find me on [Twitter](https://twitter.com/you_aio) or discord at Younes#0001 😄
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=younesdev1)](https://github.com/anuraghazra/github-readme-stats &show_icons=true&theme=tokyonight&count_private=true)
+
+
 
 ![Younes' GitHub stats](https://github-readme-stats.vercel.app/api?username=younesdev1&show_icons=true&theme=tokyonight&count_private=true)
