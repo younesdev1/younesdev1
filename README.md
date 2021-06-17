@@ -16,4 +16,4 @@ You can find me on [Twitter](https://twitter.com/you_aio) or discord at Younes#0
 ![Younes' GitHub stats](https://github-readme-stats.vercel.app/api?username=younesdev1&show_icons=true&theme=tokyonight&count_private=true)
 
 
-[![Younes' wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=younesdev1)](https://github.com/anuraghazra/github-readme-stats)
+[![Younes' wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@younesdev1)](https://github.com/anuraghazra/github-readme-stats&compact=true)
