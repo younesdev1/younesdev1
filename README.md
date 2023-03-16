@@ -2,7 +2,7 @@
 
 **Welcome in my GitHub Profile!**
 
-I'm Younes, a sneaker developer, i code bots and software to help people get limited and exclusive sneakers!
+I'm Younes, I code bots and software to help people get limited and exclusive items!
 
 You can find me on [Twitter](https://twitter.com/offwhtdev) or discord at Younes#0001 😄
 
