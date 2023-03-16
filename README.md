@@ -6,7 +6,7 @@ I'm Younes, I code software to help avid collectors and enthusiasts get their ha
 
 I work on:
 
-[@BurstAIO](https://github.com/burstaio) - Sneakers, Streetwear and High-End items & Collectibles, Miscellaneous 
+[@BurstAIO](https://github.com/burstaio) - Sneakers, Streetwear and High-End items & Collectibles, Miscellaneous
 [@MinTechBots](https://github.com/MinTechBots) - NFTs, Web3 and Ethereum Automations.
 
 
